@@ -1,0 +1,22 @@
+.root{
+  -fx-font: 15px "serif";    
+  -fx-background-color:  #FFFFFF;
+   
+}
+.label{
+    
+     -fx-background-color: #ce9b2b;
+    -fx-border-color: #554012;
+    -fx-border-radius: 20;
+    -fx-background-radius: 20;
+    -fx-border-width: 5;
+    
+}
+#rep{
+   
+   
+}
+
+#next{
+    
+}

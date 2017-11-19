@@ -1,0 +1,70 @@
+.root{
+  -fx-background-color:  #FFFFFF;
+   
+}
+
+
+
+.button{
+    -fx-font: 15px "serif";
+    
+    -fx-background-color: #ce9b2b;
+    -fx-border-color: #554012;
+    -fx-border-radius: 20;
+    -fx-background-radius: 20;
+    -fx-border-width: 5;
+ 
+    
+}
+#leftButton{
+    
+     -fx-alignment:  top-left;
+}
+
+#rightButton{
+    -fx-alignment:  top-right;
+    
+    
+}
+#hbx{
+    -fx-background-color: #8e8b85;
+    -fx-spacing: 25;
+    
+}
+.label{
+    -fx-background-color:#ffe20c;
+    -fx-font: 10px "serif";
+    
+    
+    
+}
+#upbar{
+    -fx-background-color: #8e8b85;
+    -fx-spacing: 20;
+    
+    
+}
+
+
+#dword{
+    -fx-font: 15px  "sans-serif";
+    
+    
+    
+}
+#cword{
+    -fx-font: 15px  "sans-serif";
+    
+    
+
+    
+    
+}
+#rbar{
+    -fx-spacing: 50;
+    -fx-background-color: #8e8b85;
+    
+    
+    
+    
+}
